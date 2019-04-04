@@ -1,0 +1,24 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.content {
+    position: fixed;
+    bottom: 25%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    font-size: 20px;
+    line-height: 70px;
+    padding: 20px;
+    color: #ffffff;
+    font-family: Futura;
+}
+h1 {
+    font-size: 50px;
+}
